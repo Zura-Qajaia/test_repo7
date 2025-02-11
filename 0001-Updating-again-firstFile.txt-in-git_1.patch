@@ -1,0 +1,24 @@
+From 1d68040b1dd1f52bd4a8b6c1f44189116f598f56 Mon Sep 17 00:00:00 2001
+From: Zura <kajaia.zura@kiu.edu.ge>
+Date: Tue, 11 Feb 2025 19:09:47 +0400
+Subject: [PATCH] Updating again firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 00935f1..25897c3 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-Line 1
+-Line 2
++0
++1
+ Line 3
+ Line 4
+ Line 5
+-- 
+2.48.1
+
